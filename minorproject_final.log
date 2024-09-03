@@ -1,0 +1,25 @@
+2024-08-07 11:31:56,604 - python_flask_mysql - INFO - Data Read Successfully
+2024-08-07 11:31:56,785 - python_flask_mysql - INFO - Preprocess Output file D:\Minorproject2\pre_process\preprocess_results.csv which is input for mysql_push url created successfully
+2024-08-07 11:31:57,030 - python_flask_mysql - INFO - Dropped Duplicates Successfully
+2024-08-07 11:33:27,895 - python_flask_mysql - INFO - Running mysql_push
+2024-08-07 11:33:27,895 - python_flask_mysql - ERROR - Invalid CSV file path provided
+2024-08-07 11:34:54,706 - python_flask_mysql - INFO - Running mysql_push
+2024-08-07 11:34:54,706 - python_flask_mysql - ERROR - Invalid CSV file path provided
+2024-08-07 11:36:01,674 - python_flask_mysql - INFO - Running mysql_push
+2024-08-07 11:36:01,674 - python_flask_mysql - ERROR - Error in mysql_push endpoint
+2024-08-07 11:37:19,191 - python_flask_mysql - INFO - Running mysql_push
+2024-08-07 11:37:19,309 - python_flask_mysql - INFO - Successfully connected to MySQL database
+2024-08-07 11:37:19,378 - python_flask_mysql - INFO - Data successfully pushed to MySQL
+2024-08-07 12:53:24,420 - python_flask_mysql - INFO - Data Read Successfully
+2024-08-07 12:53:24,592 - python_flask_mysql - INFO - Preprocess Output file D:\Minorproject2\pre_process\preprocess_results.csv which is input for mysql_push url created successfully
+2024-08-07 12:53:24,864 - python_flask_mysql - INFO - Dropped Duplicates Successfully
+2024-08-08 10:19:43,057 - prac3 - INFO - Preprocess Started
+2024-08-08 10:19:43,473 - prac3 - INFO - File Read Successfully
+2024-08-08 10:19:49,496 - prac3 - INFO - Successfully connected to MySQL database
+2024-08-08 10:19:49,496 - prac3 - ERROR - Error pushing data to MySQL: 1146 (42S02): Table 'minorproject_db.column_analysis05' doesn't exist
+2024-08-08 10:20:57,295 - prac3 - INFO - Successfully connected to MySQL database
+2024-08-08 10:20:57,317 - prac3 - ERROR - Error pushing data to MySQL: 1054 (42S22): Unknown column 'data_types' in 'field list'
+2024-08-08 10:21:27,902 - prac3 - INFO - Successfully connected to MySQL database
+2024-08-08 10:21:27,902 - prac3 - INFO - Data successfully pushed to MySQL
+2024-08-08 10:45:12,854 - prac3 - INFO - Successfully connected to MySQL database
+2024-08-08 10:45:12,854 - prac3 - INFO - Data successfully pushed to MySQL
