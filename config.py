@@ -5,4 +5,5 @@ mysql_config = {
     'database': 'minorproject_db' 
 }
 
-output_directory = 'D:\\Minorproject2\\flask_app'
+output_directory = 'D:\\Minorproject2\\flask_app' #output directory
+
